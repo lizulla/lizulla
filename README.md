@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi I'm Liz 👋
+
+
+🎓 Computer Science student @ Kutztown University (Class of 2026)  
+🧠 Passionate about systems programming, backend dev & building tools that help people  
+🌱 Currently learning: Flask, PostgreSQL, React, and AI integration  
+🛰️ Former NASA JPL intern (Summer 2025)  
+🐧 Linux fan – where breaking things teaches me more than fixing them
+
 
 <!--
 **lizulla/lizulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
